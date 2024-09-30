@@ -1,0 +1,6 @@
+{
+  "title": "Endpoint GET /hotel/1/rooms not found",
+  "status": 404,
+  "type": "https://javalin.io/documentation#endpointnotfound",
+  "details": {}
+}

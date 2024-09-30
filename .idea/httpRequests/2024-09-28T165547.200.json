@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "hotel": {
+      "id": 1,
+      "name": "Hotel 3",
+      "address": "Address 3"
+    },
+    "number": 101,
+    "price": 150.0
+  },
+  {
+    "id": 2,
+    "hotel": {
+      "id": 1,
+      "name": "Hotel 3",
+      "address": "Address 3"
+    },
+    "number": 101,
+    "price": 150.0
+  }
+]

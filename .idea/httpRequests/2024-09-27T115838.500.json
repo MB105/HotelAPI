@@ -1,0 +1,6 @@
+{
+  "title": "Server Error",
+  "status": 500,
+  "type": "https://javalin.io/documentation#internalservererrorresponse",
+  "details": {}
+}

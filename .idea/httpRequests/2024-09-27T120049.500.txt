@@ -1,0 +1,1 @@
+Internal Server Error: Cannot invoke "daos.HotelDAO.create(Object)" because "this.hotelDAO" is null
